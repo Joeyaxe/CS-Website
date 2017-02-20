@@ -1,5 +1,5 @@
 h1 {
-  color: #0000ff;
+  color: blue;
   text-decoration: underline;
 
 }
@@ -8,4 +8,8 @@ img=lucky.jpg {
   height:50px; 
   
 }
-text-color: purple;
+p {
+  color: purple; 
+  
+  
+}
