@@ -6,6 +6,7 @@ h1 {
 img { 
   width:250px;
   height:200px; 
+  {border-style: dashed;}
   
 }
 
