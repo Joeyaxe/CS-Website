@@ -3,6 +3,9 @@ h1 {
   text-decoration: underline;
 
 }
+p {
+   color: white;
+}
 img { 
   width:250px;
   height:200px; 
@@ -13,10 +16,6 @@ border-color: blue;
 }
 body {
   background-color: grey;
-  
-}
-p {
-  font-color: white;
   
 }
 
