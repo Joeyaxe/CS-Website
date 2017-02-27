@@ -8,6 +8,7 @@ img {
   height:200px; 
   border-style: dashed;
 border-color: blue;
+  border-radius:14px;
   
 }
 body {
