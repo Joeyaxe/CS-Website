@@ -21,5 +21,14 @@ body {
 table, th, td {
     border: 16px solid black;
 }
+li {
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
 
 
