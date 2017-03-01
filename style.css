@@ -15,7 +15,7 @@ border-color: blue;
   
 }
 body {
-  background-color: white;
+  background-color: lightblue;
   
 }
 table, th, td {
@@ -28,7 +28,7 @@ li {
 a {
     display: block;
     padding: 10px;
-    background-color: red;
+    background-color: white;
 }
 
 
