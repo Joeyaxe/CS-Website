@@ -4,7 +4,7 @@ h1 {
 
 }
 p {
-   color: white;
+   color: black;
 }
 img { 
   width:250px;
@@ -15,7 +15,7 @@ border-color: blue;
   
 }
 body {
-  background-color: grey;
+  background-color: white;
   
 }
 table, th, td {
