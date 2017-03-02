@@ -19,7 +19,7 @@ body {
   
 }
 table, th, td {
-    border: 16px solid black;
+    border: 10px solid black;
 }
 ul {
     list-style-type: none;
